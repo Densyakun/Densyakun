@@ -65,29 +65,31 @@
 ## Bukkit, Spigot Plugins
 
 - [BukkitPlugin_MineDTM](https://github.com/Densyakun/BukkitPlugin_MineDTM)
-- [BukkitPlugin_AnimalRide](https://github.com/Densyakun/BukkitPlugin_AnimalRide)
-- [BukkitPlugin_ExplosionController](https://github.com/Densyakun/BukkitPlugin_ExplosionController)
-- [BukkitPlugin_AntiRespawnKill](https://github.com/Densyakun/BukkitPlugin_AntiRespawnKill)
-- [BukkitPlugin_ChatSound](https://github.com/Densyakun/BukkitPlugin_ChatSound)
-- [BukkitPlugin_HubSpawn](https://github.com/Densyakun/BukkitPlugin_HubSpawn)
-- [BukkitPlugin_ChatTempMute](https://github.com/Densyakun/BukkitPlugin_ChatTempMute)
+- [BukkitPlugin_AnimalRide](https://github.com/Densyakun/BukkitPlugin_AnimalRide) 動物が乗り物になるプラグイン
+- [BukkitPlugin_ExplosionController](https://github.com/Densyakun/BukkitPlugin_ExplosionController) 爆破耐性プラグイン。ブロックの爆破やエンティティのダメージ設定も可能
+- [BukkitPlugin_AntiRespawnKill](https://github.com/Densyakun/BukkitPlugin_AntiRespawnKill) リスキル防止プラグイン。config.ymlでリスキル防止時間を設定可能
+- [BukkitPlugin_ChatSound](https://github.com/Densyakun/BukkitPlugin_ChatSound) チャットを送信すると音がなるプラグイン
+- [BukkitPlugin_HubSpawn](https://github.com/Densyakun/BukkitPlugin_HubSpawn) スポーンコマンド追加プラグイン。ホーム登録機能、ベッド移動など便利な機能もある
+- [BukkitPlugin_ChatTempMute](https://github.com/Densyakun/BukkitPlugin_ChatTempMute) チャットをミュート出来るBukkitプラグイン
 - [BukkitPlugin_yuugakicker](https://github.com/Densyakun/BukkitPlugin_yuugakicker)
 - [BukkitPlugin_SwordArtOnline](https://github.com/Densyakun/BukkitPlugin_SwordArtOnline)
 - [BukkitPlugin_DSP2](https://github.com/Densyakun/BukkitPlugin_DSP2)
 - [BukkitPlugin_DSP](https://github.com/Densyakun/BukkitPlugin_DSP)
 - [BukkitPlugin_iConomyTest](https://github.com/Densyakun/BukkitPlugin_iConomyTest)
-- [BukkitPlugin_FallSound](https://github.com/Densyakun/BukkitPlugin_FallSound)
+- [BukkitPlugin_FallSound](https://github.com/Densyakun/BukkitPlugin_FallSound) 初期バージョンの懐かしい落下ダメージ時の「ウォオ!!」と声がするプラグイン
 - [BukkitPlugin_AnimalCrossing](https://github.com/Densyakun/BukkitPlugin_AnimalCrossing)
 - ~[BukkitPlugin_AutoCityBuilder](https://github.com/Densyakun/BukkitPlugin_AutoCityBuilder)~
 - ~[BukkitPlugin_Logmanage](https://github.com/Densyakun/BukkitPlugin_Logmanage)~
 - ~[BukkitPlugin_AutoMine](https://github.com/Densyakun/BukkitPlugin_AutoMine)~
 
+他にも、[電車君のMinecraftMOD・BukkitPlugin製作Wiki](http://densyakunmod.wiki.fc2.com/)にてプラグインを公開しています。
+
 ### Mini game manager and Mini games
 
-- [BukkitPlugin_MiniGameManager](https://github.com/Densyakun/BukkitPlugin_MiniGameManager)
-- [BukkitPlugin_ArcadeTosochu](https://github.com/Densyakun/BukkitPlugin_ArcadeTosochu)
-- [BukkitPlugin_PvPFFA](https://github.com/Densyakun/BukkitPlugin_PvPFFA)
-- [BukkitPlugin_PvP1vs1](https://github.com/Densyakun/BukkitPlugin_PvP1vs1)
+- [BukkitPlugin_MiniGameManager](https://github.com/Densyakun/BukkitPlugin_MiniGameManager) マインクラフトで簡単にミニゲームを動かすためのAPI
+- [BukkitPlugin_ArcadeTosochu](https://github.com/Densyakun/BukkitPlugin_ArcadeTosochu) 1vs1ミニゲームを追加するBukkitプラグイン。iConomyに対応
+- [BukkitPlugin_PvPFFA](https://github.com/Densyakun/BukkitPlugin_PvPFFA) FFAミニゲームを追加するBukkitプラグイン。iConomyに対応
+- [BukkitPlugin_PvP1vs1](https://github.com/Densyakun/BukkitPlugin_PvP1vs1) マイクラに逃走中を追加するBukkitプラグイン。iConomyに対応
 
 ## Forge mods
 
